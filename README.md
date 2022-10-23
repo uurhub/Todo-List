@@ -9,7 +9,7 @@
 <hr>
 
 <p>After download and install process, you need to follow these steps: Register -> Login. At last, you can create a new task and use the site..</p>
-<p align = "center"><b> You can reach the live version in here: https://todolist-djangoo.herokuapp.com/login/ </b></p>
+<p align = "center" target:"_blank"><b> You can reach the live version in here: https://todolist-djangoo.herokuapp.com/login/ </b></p>
 
 <hr>
 
