@@ -9,7 +9,7 @@
 <hr>
 
 <p>After download and install process, you need to follow these steps: Register -> Login. At last, you can create a new task and use the site..</p>
-<p align = "center"><b> You can reach the live version in here:</b><a href="https://www.w3schools.com](https://todolist-djangoo.herokuapp.com/login/" target="_blank"><b>Click Me!</b></a></p>
+<p align = "center"><b> You can reach the live version in here:</b><a href="https://todolist-djangoo.herokuapp.com/login/" target="_blank"><b>Click Me!</b></a></p>
 
 <hr>
 
